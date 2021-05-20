@@ -1,0 +1,10 @@
+h1{
+    color:aquamarine;
+    Background-color:blue;
+}
+.imageposition{
+    display:left;
+    justify-content: center;
+    align-self:center ;
+    
+}
